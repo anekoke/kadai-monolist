@@ -62,3 +62,7 @@ group :development, :test do
   gem 'pry-doc'    # methodを表示
   gem 'pry-byebug' # デバッグを実施
 end
+
+gem 'rakuten_web_service' , '1.5.0'
+
+gem 'dotenv-rails'
